@@ -39,14 +39,14 @@ CareerTwin AI is an AI-powered career analysis project that helps students and j
 
 ---
 
-⚙️ How to Run
+##⚙️ How to Run
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
 3. Create a virtual environment:
 
 ---
 
-🎯 Use Cases
+##🎯 Use Cases
 🎓 Students preparing for placements
 💼 Freshers searching for jobs
 📄 Resume and job matching
@@ -57,7 +57,7 @@ CareerTwin AI is an AI-powered career analysis project that helps students and j
 
 ---
 
-🌱 Future Scope
+##🌱 Future Scope
 
 This project can be further enhanced with:
 
